@@ -2,6 +2,7 @@
 # Contributors
 - [Maneesha Gunawardhana](https://github.com/mGunawardhana)
 - [Mariano De Los Santos](https://github.com/Mdeloss)
+- [Mohammad Wasim Tikki](https://github.com/wasimtikki120)
 - [Jianfeng Shao](https://github.com/JianfengShao)
 - [Booboo](http://github.com/fjsahflasj)
 - [Abdiel Wilson](https://github.com/Wilsonabdiel)
@@ -14,6 +15,7 @@
 - [Ciberdcuk] (https://github.com/gerosantacruz)
 - [Thawzin] (https://github.com/Thawzin229)
 - [Masum] (https://github.com/Masum-ipv)
+- [GWN] (https://github.com/gloriabee)
 - [Sean]
 - [Ramyalakshmi Sundaramoorthy](https://github.com/s-ramyalakshmi)
 - tstoiu17
@@ -65,6 +67,7 @@
 - [Nails-Bohr](https://github.com/Nails-Bohr/)
 - [Astro-bro](https://github.com/Astro-bro)
 - [Zane](https://github.com/Zanebla)
+- [Mohammed Islam]
 - [WagTeoo](https://github.com/MQuang200)
 - [Devanshi Jain] (https://github.com/devanshi-jain)
 - [Darrell Roberts] (https://github.com/DarrellRoberts)
@@ -1990,6 +1993,7 @@ Sino Felicity Zwane
 - [Erik Vargas](https://github.com/erikAlberto)
 - [Pina Sunil](https://github.com/PinaSunil)
 - [Kenneth Pinzon Rojas](https://github.com/thehubisgitted)
+- [Martin Viassolo](https://github.com/martinv9000)
 - [Joanna Marie Areniego](https://github.com/JoannaMarieAreniego)
 - [Chance Justine Bragais] (https://github.com/Chancelemagne22)
 - [Brian Oktavec] (https://github.com/boktavec)
